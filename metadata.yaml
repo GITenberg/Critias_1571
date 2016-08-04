@@ -1,0 +1,39 @@
+_repo: Critias_1571
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: There is a well-known saying that the whole of Western Philosophy is
+  footnotes of Plato. This is because his writings have set the schema that philosophy
+  can be said to have followed ever since. Following the teachings of Socrates, Plato's
+  works are among the world's greatest literature. This book provides a detailed description
+  of Atlantis and its people as well as information about the ancient Athenians.
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Classical literature'
+- GITenberg
+title: Critias
+url: http://www.gutenberg.org/ebooks/1571
